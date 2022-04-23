@@ -5,6 +5,8 @@ Celebration of Life Event Files
 ## Eventbrite Post
 https://www.eventbrite.com/e/katies-last-hurrah-tickets-311857563367
 
+https://github.com/f-marquez/Kakies_last_hurrah/blob/main/Screen%20Shot%202022-04-23%20at%2012.20.03%20AM.png
+
 ## Event Sinage
 ### 2 Events Signs were created ( Formated for Standard Poster Board)
 - Greeting Signage
