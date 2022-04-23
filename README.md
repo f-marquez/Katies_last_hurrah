@@ -5,8 +5,9 @@ Celebration of Life Event Files
 ## Eventbrite Post
 [CLICK HERE! To navigate to LIVE Eventbrite Event](https://www.eventbrite.com/e/katies-last-hurrah-tickets-311857563367)
 
-![Titanic](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/Screen%20Shot%202022-04-23%20at%2012.20.03%20AM.png)
+![Eventbrite](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/Screen%20Shot%202022-04-23%20at%2012.20.03%20AM.png)
 
+## CRM/Hubspot E-mail Template
 
 ## Event Signage
 ### 2 Events Signs were created:
