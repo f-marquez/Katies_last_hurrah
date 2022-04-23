@@ -7,7 +7,7 @@ Once main project image was approved, Eventbrite and Hubspot templates were crea
 Although Eventbrite, has its own built in CRM services, Hubspot was preferred by client. Click on Image for better view. 
 <br>
 <br>
-To view alternate design optons please scroll to bottom of page.
+To view alternate design options please scroll to bottom of page.
 Eventbrite Post| CRM/Hubspot E-mail Template
 :-------------------------:|:-------------------------:
 [CLICK HERE! To navigate to LIVE Eventbrite Event](https://www.eventbrite.com/e/katies-last-hurrah-tickets-311857563367)| Initial Evite (Sreenshot)
