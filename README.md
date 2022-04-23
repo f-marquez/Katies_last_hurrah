@@ -1,6 +1,6 @@
 # Kakies Last Hurrah
 Celebration of Life Event Files
-## Evite & Eventbrite Banner
+## Evite &  Eventbrite Banner
 ![Eventbrite](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/EventBanner/9.png)
 ## Eventbrite Post & CRM/Hubspot E-mail Template
 Once main project image was approved, Eventbrite and Hubspot templates were created. Hubpot evite was linked to Eventbrite Posting.
@@ -17,7 +17,7 @@ Eventbrite Post| CRM/Hubspot E-mail Template
 ## Event Signage
 ### 2 Events Signs were created:
 Greeting Signage and a Celebrating a life well lived, Catherine Duster Enns Sign. Both were formated for Standard Poster Board.
-Please note that although Celebrating a life well lived, Catherine Duster Enns design was approved for use, client failed to provide copy or bio therefore never updated.
+Please note that although Celebrating a life well lived, Catherine Duster Enns design was approved for use, copy/ bio  was never provided therefore never updated. Due to venue rules, signage was scrapped from production.
 
 Greeting Signage| Celebrating a life well lived, Catherine Duster Enns
 :-------------------------:|:-------------------------:
