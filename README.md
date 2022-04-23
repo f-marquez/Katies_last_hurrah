@@ -25,8 +25,8 @@ Greeting Signage| Celebrating a life well lived, Catherine Duster Enns
 
 
 ## In Memorium Slideshow Video: 
-### There 2 versions of this video; one has no audio and the other is accompanied by the Gold Girls Theme Music (a client favorite)
- These files were too large to upload directly onto github; they are available for review on Youtube via the links below
+### There are 2 versions of this video; one has no audio and the other is accompanied by the Gold Girls Theme Music (a client favorite).
+ The video showcases over hundred "slides" featuring mearly 200 of the clients images. These files are too large to upload directly onto github; they are available for review on Youtube via the links below.
  
  Without audio             | With audio
 :-------------------------:|:-------------------------:
