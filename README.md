@@ -1,13 +1,18 @@
 # Kakies Last Hurrah
 Celebration of Life Event Files
-## Eventbrite Banner
+## Evite & Eventbrite Banner
 ![Eventbrite](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/EventBanner/9.png)
-## Eventbrite Post
-[CLICK HERE! To navigate to LIVE Eventbrite Event](https://www.eventbrite.com/e/katies-last-hurrah-tickets-311857563367)
+## Eventbrite Post & CRM/Hubspot E-mail Template
+Once main project image was approved, Eventbrite and Hubspot templates were created. Hubpot evite was linked to Eventbrite Posting.
+Although Eventbrite, has its own built in CRM services, Hubspot was preferred by client. Click on Image for better view. 
+<br>
+<br>
+To view alternate design optons please scroll to bottom of page.
+Eventbrite Post| CRM/Hubspot E-mail Template
+:-------------------------:|:-------------------------:
+[CLICK HERE! To navigate to LIVE Eventbrite Event](https://www.eventbrite.com/e/katies-last-hurrah-tickets-311857563367)| Initial Evite (Sreenshot)
+![Eventbrite](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/Screen%20Shot%202022-04-23%20at%2012.20.03%20AM.png)| ![Hubspot](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/HUBSPOT%20SS.jpeg)
 
-![Eventbrite](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/Screen%20Shot%202022-04-23%20at%2012.20.03%20AM.png)
-
-## CRM/Hubspot E-mail Template
 
 ## Event Signage
 ### 2 Events Signs were created:
