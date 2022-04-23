@@ -3,8 +3,8 @@
 
 ## Overview
 
-Katie's Last Hurrah! , is a celebration of Catherine Duster Enns's life that will to be held at the Backus Art Museum & Gallery, in Ft Pierce, Florida.
-As a long time board member of the museum and patron of the arts, Katie willed her best Backus painting to the museum upon on her death. Orignally the celebration and painting dedication was set to be celebrated a year after her passing but due to cocmplications presented by the COVID-19 pandemic, celebrations had to be postponed until it was safe to gather in groups once more.
+Katie's Last Hurrah! , is a celebration of Catherine Duster Enns's life that will to be held at the Backus Art Museum & Gallery in Ft Pierce, Florida.
+As a long time board member of the museum and patron of the arts, Katie willed a beloved Backus painting to the museum upon on her death. Orignally the celebration &  painting dedication were set to be held a year after her passing but due to social distancing concerns presented by the COVID-19 pandemic, they had to be postponed until it was safe to gather once more.
 
 
 The designs included here are fully redesigned and are different than those of the original event.
