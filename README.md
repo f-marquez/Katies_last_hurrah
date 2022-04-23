@@ -1,5 +1,15 @@
 # Katie's Last Hurrah
-Celebration of Life Event Files
+### Celebration of Life Event Files
+
+## Overview
+
+Katie's Last Hurrah!, is a celebration of the life of Catherine Duster Enns that is to be held at the Backus Art Museum & Gallery, in Ft Pierce, Florida.
+As a long time board member of the museum and patron of the arts, Katie willed her best Backus painting to the museum upon on her death. Orignally the celebration and painting dedication was set to be celebrated a year after her passing but due to cocmplications presented by the COVID-19 Pandemic, celebrations had to be postponed until it was safe to gather in groups once more.
+
+
+The designs included here are fully redesigned and are different than those of the original event.
+
+
 ## Evite &  Eventbrite Banner
 ![Eventbrite](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/EventBanner/9.png)
 ## Eventbrite Post & CRM/Hubspot E-mail Template
