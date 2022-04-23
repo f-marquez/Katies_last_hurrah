@@ -18,12 +18,14 @@ Greeting Signage| Celebrating a life well lived, Catherine Duster Enns
 ![](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/Better%20late%20Than%20Never%20!/3.png)  |  ![](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/Better%20late%20Than%20Never%20!/4.png)
 
 
-
 ## There 2 versions of the in Memorium Video: 
 ### one has no audio and the other plays with the Gold Girls Music
  Those files were too large to upload to github but they are available for review on Youtube via link
- - Without audio
- - With audio
+ 
+ Without audio             | With audio
+:-------------------------:|:-------------------------:
+[![Alt text](https://img.youtube.com/vi/eQSYu4JPQUE/0.jpg)](https://www.youtube.com/watch?v=eQSYu4JPQUE)  | [![Alt text](https://img.youtube.com/vi/eQSYu4JPQUE/0.jpg)](https://www.youtube.com/watch?v=eQSYu4JPQUE) 
+
 
 ### Additional Design Files
  ## Alternate Event Banners
