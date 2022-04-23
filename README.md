@@ -1,4 +1,4 @@
-# Kakies Last Hurrah
+# Katie's Last Hurrah
 Celebration of Life Event Files
 ## Evite &  Eventbrite Banner
 ![Eventbrite](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/EventBanner/9.png)
