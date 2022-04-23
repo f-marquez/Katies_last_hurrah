@@ -8,7 +8,7 @@ Celebration of Life Event Files
 ![Titanic](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/Screen%20Shot%202022-04-23%20at%2012.20.03%20AM.png)
 
 
-## Event Sinage
+## Event Signage
 ### 2 Events Signs were created:
 Greeting Signage and a Celebrating a life well lived, Catherine Duster Enns Sign. Both were formated for Standard Poster Board.
 Please note that although Celebrating a life well lived, Catherine Duster Enns design was approved for use, client failed to provide copy or bio therefore never updated.
