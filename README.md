@@ -16,7 +16,7 @@ Delightful and smart witted - she was impossible to forget. Wife to editor of th
 I created a designed that reflected her bright personality while paying tribute to life she shared with her friends and family in Florida.
 
 ## Evite &  Eventbrite Banner
-![Eventbrite](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/EventBanner/9.png)
+![Eventbrite](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/EventBanner/10.png)
 ## Eventbrite Post & CRM/Hubspot E-mail Template
 Once main project image was approved, Eventbrite and Hubspot templates were created. Hubspot evite was linked to Eventbrite Posting.
 Although Eventbrite, has its own built in CRM services, Hubspot was preferred by client. Click on Image for better view. 
@@ -40,7 +40,7 @@ Greeting Signage| Celebrating a life well lived, Catherine Duster Enns
 
 
 ## In Memorium Slideshow Video: 
-### There are 2 versions of this video; one has no audio and the other is accompanied by the Gold Girls Theme Music (a client favorite).
+### There are 2 versions of this video; one has no audio and the other is accompanied by the Golden Girls Theme Music (a client favorite).
  The video showcases over a hundred "slides" featuring nearly 200 of the client'snimages. The purpose of thise video was to play in the play in the background of the event.
  
  These files are too large to upload directly onto github; they are available for review on Youtube via the links below.
