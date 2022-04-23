@@ -9,6 +9,9 @@ As a long time board member of the museum and patron of the arts, Katie willed a
 
 The designs included here are fully redesigned and are different than those of the original event.
 
+### Inspiration for Design
+It can be challenging to design for the dead. I was lucky to have met her several years ago. She was delightful and smart witted- impossible to forget.
+Wife to editor of the news paper , Mother to a league of 8, and teacher for over 5 decades she left an undeniable mark on her community. She had a gift for creating spaces where others could feel seen. 
 
 ## Evite &  Eventbrite Banner
 ![Eventbrite](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/EventBanner/9.png)
