@@ -13,10 +13,11 @@ Celebration of Life Event Files
 Greeting Signage and a Celebrating a life well lived, Catherine Duster Enns Sign. Both were formated for Standard Poster Board.
 Please note that although Celebrating a life well lived, Catherine Duster Enns design was approved for use, client failed to provide copy or bio therefore never updated.
 
-### Greeting Signage
- ![SIGNAGE](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/Better%20late%20Than%20Never%20!/3.png)
-### Celebrating a life well lived, Catherine Duster Enns
-  ![SIGNAGE](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/Better%20late%20Than%20Never%20!/4.png)
+Greeting Signage| Celebrating a life well lived, Catherine Duster Enns
+:-------------------------:|:-------------------------:
+![](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/Better%20late%20Than%20Never%20!/3.png)  |  ![](https://github.com/f-marquez/Kakies_last_hurrah/blob/main/Better%20late%20Than%20Never%20!/4.png)
+
+
 
 ## There 2 versions of the in Memorium Video: 
 ### one has no audio and the other plays with the Gold Girls Music
